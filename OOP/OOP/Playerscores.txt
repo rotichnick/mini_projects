@@ -1,0 +1,12 @@
+Player 1 choice 1 chose: 1 
+Player 1 choice 2 chose: 2 
+Player 1 choice 3 chose: 3 
+Player 2 choice 1 chose: 4 
+Player 2 choice 2 chose: 5 
+Player 2 choice 3 chose: 9 
+Player 3 choice 1 chose: 7 
+Player 3 choice 2 chose: 13 
+Player 3 choice 3 chose: 16 
+Player 4 choice 1 chose: 17 
+Player 4 choice 2 chose: 19 
+Player 4 choice 3 chose: 23 

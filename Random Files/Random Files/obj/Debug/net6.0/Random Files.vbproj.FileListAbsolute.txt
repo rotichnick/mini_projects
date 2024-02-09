@@ -1,0 +1,15 @@
+C:\Users\Nicholas Rotich\source\repos\Random Files\Random Files\bin\Debug\net6.0\Random Files.exe
+C:\Users\Nicholas Rotich\source\repos\Random Files\Random Files\bin\Debug\net6.0\Random Files.deps.json
+C:\Users\Nicholas Rotich\source\repos\Random Files\Random Files\bin\Debug\net6.0\Random Files.runtimeconfig.json
+C:\Users\Nicholas Rotich\source\repos\Random Files\Random Files\bin\Debug\net6.0\Random Files.dll
+C:\Users\Nicholas Rotich\source\repos\Random Files\Random Files\bin\Debug\net6.0\Random Files.pdb
+C:\Users\Nicholas Rotich\source\repos\Random Files\Random Files\obj\Debug\net6.0\Random Files.vbproj.AssemblyReference.cache
+C:\Users\Nicholas Rotich\source\repos\Random Files\Random Files\obj\Debug\net6.0\Random Files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicholas Rotich\source\repos\Random Files\Random Files\obj\Debug\net6.0\Random Files.AssemblyInfoInputs.cache
+C:\Users\Nicholas Rotich\source\repos\Random Files\Random Files\obj\Debug\net6.0\Random Files.AssemblyInfo.vb
+C:\Users\Nicholas Rotich\source\repos\Random Files\Random Files\obj\Debug\net6.0\Random Files.vbproj.CoreCompileInputs.cache
+C:\Users\Nicholas Rotich\source\repos\Random Files\Random Files\obj\Debug\net6.0\Random Files.dll
+C:\Users\Nicholas Rotich\source\repos\Random Files\Random Files\obj\Debug\net6.0\refint\Random Files.dll
+C:\Users\Nicholas Rotich\source\repos\Random Files\Random Files\obj\Debug\net6.0\Random Files.pdb
+C:\Users\Nicholas Rotich\source\repos\Random Files\Random Files\obj\Debug\net6.0\Random Files.genruntimeconfig.cache
+C:\Users\Nicholas Rotich\source\repos\Random Files\Random Files\obj\Debug\net6.0\ref\Random Files.dll
